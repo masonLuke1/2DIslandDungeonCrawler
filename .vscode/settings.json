@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths":
+    [
+        "src",
+        "src/main/resources"
+    ],
+    "java.project.referencedLibraries": 
+    [
+        "src/main/resources/**"  // Include all resources
+    ]
+}

@@ -1,18 +1,23 @@
-## Getting Started
+Project Description
+2DIslandDungeonCrawler is an independent RPG game currently under development, aiming to deliver an immersive adventure experience. 
+The project centers around a detailed loot and skill system, enhancing gameplay mechanics and player engagement.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Goals
+Skill Development: This project serves as a platform for me to advance my programming skills in Java and deepen my understanding of object-oriented design.
+Challenge Resolution: I am applying my self-taught knowledge and Java expertise to overcome various coding challenges that arise during the development process.
 
-## Folder Structure
+Current Progress
+Prototype Phase: The game is in the early stages, with foundational mechanics being conceptualized and basic implementations actively underway.
+Public Release Plans: I aim to release the game to the public on Steam or Itch.io to showcase my work and obtain constructive feedback from players.
 
-The workspace contains two folders by default, where:
+Key Features
+Engaging RPG mechanics
+Comprehensive loot and skill systems
+Interactive gameplay elements
+Large Explorable World
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Next Steps
+Continue refining and expanding the core mechanics and features of the game.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Contact Information
+I welcome any feedback or inquiries about this project. Feel free to reach out!
